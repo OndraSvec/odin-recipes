@@ -1,0 +1,8 @@
+.samefont {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img-size {
+    width: clamp(18rem, 50vw, 50rem);
+    height: auto;
+}
